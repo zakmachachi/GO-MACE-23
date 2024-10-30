@@ -25,6 +25,8 @@
 
 12) **iter-12:** iter-11 + edge structures held at 1500K using MACE model fitted on iter-11. 250 structures were added (1 ps intervals (10 ps total) on 5x5 matrix). Structures were cleaned where single atoms were removed. iter-12 was cleaned up by removing any structures with forces > 50 eV/A. 7 Structures were removed from the training data and 0 from the test data.
 
+The production model can be found in iter-12-final-model.
+
 ## MACE fitting settings:
 
     --name="MACE_model" \

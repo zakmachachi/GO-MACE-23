@@ -4,6 +4,8 @@ This repository contains code and data supporting the following work:
 
 > Zakariya El-Machachi, Damyan Frantzov, A. Nijamudheen, Tigany Zarrouk, Miguel A. Caro, Volker L. Deringer, Angew. Chem. Int. Ed. 2024, e202410088.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14066557.svg)](https://doi.org/10.5281/zenodo.14066557)
+
 The purpose is to enable readers to access the potential models and characterisation code for reproducing the work, and also to create structural models of their own of functionalised graphene sheets ("graphene oxide", GO). 
 
 ## Contents
